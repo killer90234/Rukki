@@ -1,0 +1,15 @@
+# exclude bot-main as requested
+bot-main/
+
+# sensitive / env
+secrets/
+*.env
+.env
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.log
+node_modules/
+dist/
+build/
